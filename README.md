@@ -1,4 +1,4 @@
 # ColorPath_TG
-The aim is to detect the top-k densest connected subgraphs as a set of k subgraphs having the largest density in the weighted graph.
+In this work we consider a problem that, given a vertex-colored temporal graph asks for a path whose vertices have distinct colors and that includes the maximum number of color.
 The data is available on the following google drive address:
 https://drive.google.com/drive/folders/1EKFHeiWKqLy_YLXalGU6RCWnep807rUT?usp=sharing
